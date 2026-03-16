@@ -1,6 +1,6 @@
 # Does It Matter What You Say? Communication Strategy and Ideology in the Supreme Court
 
-By Luzciel Ponce-Esquibel and Zachary Serban
+# By Luzciel Ponce-Esquibel and Zachary Serban
 
 This is a final project completed for DATASCI 112: Principles of Data Science class at Stanford University
 
