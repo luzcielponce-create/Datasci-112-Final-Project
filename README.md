@@ -12,9 +12,5 @@ We analyzed oral argument transcripts from 8,000 Supreme Court cases spanning 19
 
 We conclude that neither communication style nor bench ideology alone is sufficient to predict Supreme Court outcomes.
 
-**Please view the notebook files through the following links as the plots are not displayed through Github**
-
-nbviewer link to the communication features notebook (to make plotly plots visible): https://nbviewer.org/github/luzcielponce-create/Datasci-112-Final-Project/blob/main/Datasci-112-Final-Project
-.ipynb
 
 Link to poster: (https://docs.google.com/presentation/d/18Ye1JX2gsG06HuQ3PIxSmqNpSGkWlYz9OS6ek-WPL7k/edit?usp=sharing)
